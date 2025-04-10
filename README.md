@@ -48,3 +48,11 @@ A data-driven web application that predicts house prices using a Linear Regressi
 
 **Output:**
 - 🎯 **Predicted House Price**: `₹ 48,00,000.00`*
+
+## 📷 Interface Preview
+
+### 📌 Screenshot
+![Before prediction](Screenshots/S1.png)
+
+### 📌 Total Product Revenue by Month
+![After prediction](Screenshots/S2.png)
