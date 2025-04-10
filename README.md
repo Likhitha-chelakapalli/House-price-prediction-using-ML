@@ -51,8 +51,8 @@ A data-driven web application that predicts house prices using a Linear Regressi
 
 ## 📷 Interface Preview
 
-### 📌 Screenshot
+### 📌 Before prediction
 ![Before prediction](Screenshots/S1.png)
 
-### 📌 Total Product Revenue by Month
+### 📌 After prediction
 ![After prediction](Screenshots/S2.png)
