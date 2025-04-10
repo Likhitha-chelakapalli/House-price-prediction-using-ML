@@ -33,7 +33,7 @@ A data-driven web application that predicts house prices using a Linear Regressi
 | Programming     | Python                                     |
 | Data Handling   | Pandas, NumPy                              |
 | Model Training  | Scikit-learn (LinearRegression)            |
-| Visualization   | Matplotlib *(optional)*                    |
+| Visualization   | Matplotlib                                 |
 | Deployment      | Streamlit                                  |
 | Model Storage   | Joblib                                     |
 
