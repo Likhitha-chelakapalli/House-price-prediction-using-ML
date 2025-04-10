@@ -1,10 +1,4 @@
 # 🏠 House Price Prediction Web App
-
-> ✅ **See the Report**: Real-time prediction interface built using **Streamlit**  
-> 🚀 Predicts house prices based on user inputs such as Square Footage, Number of Bedrooms, and House Age.
-
----
-
 ## 📌 Project Overview
 - Developed a **machine learning-based regression model** to estimate house prices.
 - Built an interactive web application using **Streamlit** for easy user interaction.
